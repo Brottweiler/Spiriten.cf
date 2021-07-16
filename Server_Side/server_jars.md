@@ -130,7 +130,7 @@ CraftBukkit used code from Mojang's server software. Spigot also introduced vari
 [SportBukkit](https://github.com/OvercastNetwork/SportBukkit) : SportBukkit is a 1.12.2 fork of CraftBukkit improving stability and adding some new features. It was 
 developed for and by the Overcast Network server.
 
-[SportPaper](https://github.com/Electroid/SportPaper) : SportPaper is a 1.8.8 fork of Paper improving performance even more. It is developed by [Electroid](https://github.com/Electroid) for use with the PGM plugin.
+[SportPaper](https://github.com/Electroid/SportPaper) : SportPaper is a 1.8.8 fork of Paper improving performance even more. It is developed by [Electroid](https://github.com/Electroid) for use with the [PGM](https://github.com/PGMDev/PGM) plugin.
 
 [SSSpigot](https://www.mc-market.org/resources/14122/) : SSSpigot is a premium 1.16.5 Paper fork with multi-thread support, useless code removed, some general optimizations, and 
 tracking metrics disabled.
